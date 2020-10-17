@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Adeebshad/Game_project/issues"
   },
-  "homepage": "https://github.com/Adeebshad/Game_project#readme",
+
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
